@@ -3,7 +3,7 @@ Hi there 👋
 
 My name is Tawfiq and I'm a junior at the Georgia Institute of Technology studying computer science.
 
-Checkout my website at tawfiqaliu.com.
+Check out my notion webpage @ tawfiqaliu.com.
 
 
 📫 Reach me @ tawfiqaliu@gatech.edu.
