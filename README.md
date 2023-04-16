@@ -1,6 +1,11 @@
 Hi there 👋
+
+
 My name is Tawfiq and I'm a junior at Georgia Institute of Technology studying computer science.
-Checkout my webstie at tawfiqaliu.com.
+
+Checkout my website at tawfiqaliu.com.
+
+
 📫 Reach me @ tawfiqaliu@gatech.edu.
 
 <!--
