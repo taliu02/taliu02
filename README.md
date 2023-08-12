@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-My name is Tawfiq and I'm a junior at the Georgia Institute of Technology studying computer science.
+My name is Tawfiq and I'm a senior at the Georgia Institute of Technology studying computer science.
 
 Check out my notion webpage @ tawfiqaliu.com.
 
