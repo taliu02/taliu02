@@ -1,2 +1,1 @@
-ur avg neovim enthusiast
-reach out to tawfiqaliu@gmail.com
+ur avg neovim enthusiast, reach out to tawfiqaliu@gmail.com
